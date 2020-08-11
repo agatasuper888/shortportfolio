@@ -161,16 +161,16 @@
     background-repeat: no-repeat;
 }
 .hobby .item:nth-of-type(1) {
-background-image: url(../images-portfolio/images/Hobby3.JPG);
+background-image: url(images/Hobby3.jpg);
 }
 .hobby .item:nth-of-type(2) {
-    background-image: url(../images-portfolio/images/Travels.JPG);
+    background-image: url(images/Travels.jpg);
                }
 .hobby .item:nth-of-type(3) {
-    background-image: url(../images-portfolio/images/Cook.JPG);
+    background-image: url(images/Cook.jpg);
            }
 .hobby .item:nth-of-type(4) {
- background-image: url(../images-portfolio/images/Sport.JPG);
+ background-image: url(images/Sport.jpg);
  }
 
 
